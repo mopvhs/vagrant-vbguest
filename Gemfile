@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source 'https://ruby.taobao.org'
 
 group :development do
   # We depend on Vagrant for development, but we don't add it as a
